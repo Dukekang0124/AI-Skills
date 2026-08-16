@@ -26,6 +26,7 @@ These aren't theories from someone else — they're **proven workflows from real
 | 技能 Skill | 场景 Scenario | 一句话 One-liner |
 |:--|:--|:--|
 | [cover-pipeline](./skills/cover-pipeline/SKILL.md) | 做封面 / Cover design | 文章→AI生图→四平台尺寸适配→视觉自查，30分钟搞定一套封面 / Article → AI image → 4-platform sizing → visual check — a full cover set in 30 min |
+| [image-generation-apis](./skills/image-generation-apis/SKILL.md) | AI生图 / AI image generation | 8个生图模型实测对比（Seedream/Kolors/CogView/万相等），选对工具省时间省踩坑 / 8 models compared — pick the right tool, save time and avoid pitfalls |
 
 （持续更新中——每个技能都是我做成一件事后沉淀的 / Continuously updated — each skill is distilled after I ship something real)
 
