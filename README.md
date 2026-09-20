@@ -23,6 +23,19 @@ These aren't theories from someone else — they're **proven workflows from real
 
 ## 技能列表 / Skills
 
+### 内容创作与自媒体运营 / Content creation & social media
+
+| 技能 Skill | 场景 Scenario | 一句话 One-liner |
+|:--|:--|:--|
+| [data-driven-review](./skills/data-driven-review/SKILL.md) | 作品数据复盘 / Post review | 真实后台数据→三动作复盘→发布前盲猜+T+3对账，判断力复利闭环 / Data-driven review with blind prediction & T+3 settlement |
+| [douyin-data-extract](./skills/douyin-data-extract/SKILL.md) | 抖音账号数据抓取 / Douyin data | CDP 连本机 Chrome 自动抓创作者中心全量数据（播放/赞/藏/评/享/吸粉）/ CDP-driven account data extraction |
+| [douyin-transcript](./skills/douyin-transcript/SKILL.md) | 抖音口播转逐字稿 / Speech-to-text | 抖音视频→完整逐字稿（Playwright 绕反爬 + SenseVoice 本地转写，36x 实时）/ Full transcript via Playwright + SenseVoice |
+| [creator-benchmark](./skills/creator-benchmark/SKILL.md) | 对标作品深度学习 / Benchmark | 抓逐字稿→五结构拆解→先判变现逻辑→可复用/不可复用→行动清单 / Deep-dive benchmark workflow |
+| [account-strategy-gate](./skills/account-strategy-gate/SKILL.md) | 账号战略会诊 / Strategy gate | 四关闸门判定单场景立住没、能不能外拓 / 4-gate check before expanding scenarios |
+| [social-account-doctor](./skills/social-account-doctor/SKILL.md) | 找对标拆爆款 / Benchmark & adapt | 找对标→拆爆款→套自己→出下一条初稿（find→crack→adapt 闭环）/ find→crack→adapt loop |
+
+### 通用 AI 使用 / General AI workflows
+
 | 技能 Skill | 场景 Scenario | 一句话 One-liner |
 |:--|:--|:--|
 | [cover-pipeline](./skills/cover-pipeline/SKILL.md) | 做封面 / Cover design | 文章→AI生图→四平台尺寸适配→视觉自查，30分钟搞定一套封面 / Article → AI image → 4-platform sizing → visual check — a full cover set in 30 min |
