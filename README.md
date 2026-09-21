@@ -29,15 +29,33 @@ These aren't theories from someone else — they're **proven workflows from real
 |:--|:--|:--|
 | [data-driven-review](./skills/data-driven-review/SKILL.md) | 作品数据复盘 / Post review | 真实后台数据→三动作复盘→发布前盲猜+T+3对账，判断力复利闭环 / Data-driven review with blind prediction & T+3 settlement |
 | [douyin-data-extract](./skills/douyin-data-extract/SKILL.md) | 抖音账号数据抓取 / Douyin data | CDP 连本机 Chrome 自动抓创作者中心全量数据（播放/赞/藏/评/享/吸粉）/ CDP-driven account data extraction |
-| [douyin-transcript](./skills/douyin-transcript/SKILL.md) | 抖音口播转逐字稿 / Speech-to-text | 抖音视频→完整逐字稿（Playwright 绕反爬 + SenseVoice 本地转写，36x 实时）/ Full transcript via Playwright + SenseVoice |
+| [douyin-transcript](./skills/douyin-transcript/SKILL.md) | 抖音口播转逐字稿 / Speech-to-text | 抖音视频→完整逐字稿（Playwright 绕反爬 + SenseVoice 本地转写）/ Full transcript via Playwright + SenseVoice |
 | [creator-benchmark](./skills/creator-benchmark/SKILL.md) | 对标作品深度学习 / Benchmark | 抓逐字稿→五结构拆解→先判变现逻辑→可复用/不可复用→行动清单 / Deep-dive benchmark workflow |
 | [account-strategy-gate](./skills/account-strategy-gate/SKILL.md) | 账号战略会诊 / Strategy gate | 四关闸门判定单场景立住没、能不能外拓 / 4-gate check before expanding scenarios |
 | [social-account-doctor](./skills/social-account-doctor/SKILL.md) | 找对标拆爆款 / Benchmark & adapt | 找对标→拆爆款→套自己→出下一条初稿（find→crack→adapt 闭环）/ find→crack→adapt loop |
+| [self-media-compliance-review](./skills/self-media-compliance-review/SKILL.md) | 发布前合规审核 / Compliance | 九大类风险检查（违禁词/敏感画面/广告法/带货一致性/千川低质素材）+ 输出审核报告 / 9-category risk scan with a review report |
 
-### 通用 AI 使用 / General AI workflows
+### 批判性思维与决策 / Critical thinking & decision
 
 | 技能 Skill | 场景 Scenario | 一句话 One-liner |
 |:--|:--|:--|
+| [deep-thinking](./skills/deep-thinking/SKILL.md) | 重要决策/复杂问题 / Deep thinking | 固定底座+场景路由+覆盖检查，先想清楚问题再选工具，不堆砌思维模型 / Fixed base + scenario routing + coverage check |
+| [multi-perspective-analysis](./skills/multi-perspective-analysis/SKILL.md) | 压制偏见 / De-bias | 多立场最强版本（steelman）审视问题，找出原立场薄弱点 / Steelman every side before judging |
+| [critical-thinking-audit](./skills/critical-thinking-audit/SKILL.md) | 思维体检 / Self-audit | 14 问详细目录盘点思维弱点，给优先改进项 / 14-question thinking health check |
+| [socratic-questioner](./skills/socratic-questioner/SKILL.md) | 检验想法 / Questioning | 四层问题漏斗（前提/逻辑/证据/反方）逐层追问 / 4-layer Socratic questioning funnel |
+| [judgment-former](./skills/judgment-former/SKILL.md) | 下结论/表态 / Judgment | 六步打磨平衡、精确、不夸大的判断 / 6-step balanced judgment |
+| [evidence-evaluator](./skills/evidence-evaluator/SKILL.md) | 判断信息可信度 / Evidence | 11 种证据来源×专属提问，评估证据充分性 / 11 evidence types × the right questions |
+| [fallacy-spotter](./skills/fallacy-spotter/SKILL.md) | 识别逻辑谬误 / Fallacies | 4 类 25 种思维谬误识别+应对 / 25 fallacies across 4 categories |
+| [cognition-barriers](./skills/cognition-barriers/SKILL.md) | 认知谦逊 / Epistemic humility | 五重认知障碍（感知/记忆/信息/智能/语言）校准置信度 / 5 barriers to knowing |
+| [persuasion-principles](./skills/persuasion-principles/SKILL.md) | 有说服力的表达 / Persuasion | 11 条说服原则：尊重+诚实+适配，不是操纵 / 11 persuasion principles |
+| [topic-narrower](./skills/topic-narrower/SKILL.md) | 选题收窄 / Narrow the topic | 少即是多：宽题→三轮收窄→一句可判断的话 / From broad topic to a judgeable sentence |
+| [answer-with-books](./skills/answer-with-books/SKILL.md) | 以书作答 / Answer via books | 2–3 本互补的书分别回答同一个问题，保留各自立场 / Let each book answer in its own voice |
+
+### 通用 AI 工作流 / General AI workflows
+
+| 技能 Skill | 场景 Scenario | 一句话 One-liner |
+|:--|:--|:--|
+| [first-check-then-do](./skills/first-check-then-do/SKILL.md) | 接任务第0步 / Research first | 先查已有能力/知识库/历史，命中复用、没中才建、做完必沉淀 / Check before you build |
 | [cover-pipeline](./skills/cover-pipeline/SKILL.md) | 做封面 / Cover design | 文章→AI生图→四平台尺寸适配→视觉自查，30分钟搞定一套封面 / Article → AI image → 4-platform sizing → visual check — a full cover set in 30 min |
 | [image-generation-apis](./skills/image-generation-apis/SKILL.md) | AI生图 / AI image generation | 8个生图模型实测对比（Seedream/Kolors/CogView/万相等），选对工具省时间省踩坑 / 8 models compared — pick the right tool, save time and avoid pitfalls |
 
